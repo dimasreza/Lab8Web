@@ -16,7 +16,7 @@ Membuat Database & menambahkan tabel di Query SQL seperti berikut.
 ![SS LANGKAH 2](https://user-images.githubusercontent.com/56240719/120284822-dd89e300-c2e6-11eb-840f-153b0f627965.png)
 
 ## Langkah 3
-### Memasukkan data barang di Query SQL
+### Memasukkan Data Barang di Query SQL
 Memasukkan Data Barang di Query SQL seperti berikut.
 ![SS LANGKAH 3](https://user-images.githubusercontent.com/56240719/120289049-13c96180-c2eb-11eb-904f-e9e86efc842d.png)
 Hasilnya jika Data berhasil di input seperti berikut.
@@ -73,7 +73,7 @@ Membuat file baru dengan nama ```hapus.php``` seperti berikut.
 ![SS LANGKAH 9](https://user-images.githubusercontent.com/56240719/120354624-c968d480-c32c-11eb-8315-48b6ce085d3b.png)
 
 Sebelum Data Barang Laptop Lenovo dihapus.
-![SS LANGKAH 9 (OUTPUT)](https://user-images.githubusercontent.com/56240719/120355057-2e242f00-c32d-11eb-8729-294ea16a1dc5.png)
+![SS LANGKAH 9 (OUTPUT)](https://user-images.githubusercontent.com/56240719/120358850-2ebec480-c331-11eb-9f14-eef41d864709.png)
 
 Setelah Data Barang Laptop Lenovo dihapus.
 ![SS LANGKAH 9 (OUTPUT 2)](https://user-images.githubusercontent.com/56240719/120355640-a559c300-c32d-11eb-8bfe-cb26b6622e65.png)
