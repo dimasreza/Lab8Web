@@ -7,6 +7,7 @@
 ## Langkah 1
 ### Menjalankan MySQL Server
 Pastikan  web server  Apache  dan  MySQL  server  sudah  dijalankan. Kemudian buka melalui browser: http://localhost/phpmyadmin/
+
 ![SS LANGKAH 1](https://user-images.githubusercontent.com/56240719/120282911-d06bf480-c2e4-11eb-88a8-6f33968e99e6.png)
 
 ## Langkah 2
